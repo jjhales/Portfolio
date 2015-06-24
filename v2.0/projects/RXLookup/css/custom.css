@@ -1,0 +1,158 @@
+/*header background image*/
+header{
+	background-image:url("../images/pills.jpg") 
+}
+/*set rxlookup body background color*/
+#rxlookup{
+	max-width: 100%;
+	background-color: #3CC7D9;
+}
+/*set container color*/
+.container{
+	max-width: 100%;
+	margin: 0 auto;
+	background: #3CC7D9;
+}
+/*set jumbo tron container to match the rest of jumbotron borders*/
+.jumbotron .container{
+	background-color: #eee;
+}
+/*brought the carousel down  */
+.carousel{
+	margin-top: 15%;
+}
+/*made the images expand out the edge of the carousel*/
+.carousel img{
+	width: 100%;
+}
+/*made inputs for search box and some forms rounded*/
+input{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 50px;
+	border-radius: 10px;
+}
+/*set the footer background and made it more pronounced*/
+footer{
+	clear:both;
+	background: #101010;
+	padding-top: 1.5%;
+	padding-bottom: 1.5%;
+	margin-top: 1.5%;
+	border-radius: 6px;
+	color: white;
+}
+/*padded modal body and colored background*/
+.modal-body{
+	background-color: #1FA4B2;
+	padding-top: 1.5%;
+	padding-left: 1.5%;
+	padding-bottom: 1.5%;
+	padding-right: 1.5%;
+
+}
+/*moved over modal inputs*/
+.modal-body form{
+	margin-left: 1.5%;
+	margin-bottom: 1.5%;
+}
+.modal-body input{
+	margin-bottom: 1.5%;
+}
+/*padded bottom of extra login area*/
+.extralogin{
+	padding-bottom: 2.5%;
+}
+/*padded bottom and moved search box over a little*/
+#searchmain{
+	padding-left: 2%;
+	padding-bottom: 2.5%;
+}
+/*extended the searchbox input*/
+#searchmain input{
+	padding-right: 10%;
+}
+/*added a small margin to break up searchbox and search button*/
+#search{
+	margin-left: 5px;
+}
+/*styled all buttons*/
+#search, #signup, #signin, #register, #close, #save, #back, #categories, #persons, #saveform, #star, #thumbs-down, #submit, #saveperson, #savetodo, #signuplogin, #loginsignup{
+	background-color:#16757F;
+	color:white;
+}
+/*moved over signup*/
+#signup{
+	margin-left: 40%;
+}
+/*moved over extralogin buttons*/
+#signuplogin, #loginsignup{
+	margin-left: 20px;
+}
+/*moved savetodo down*/
+#savetodo{
+	margin-top: 2.5%;
+}
+/*styled all buttons hover*/
+#search:hover, #signup:hover, #signin:hover, #close:hover, #save:hover, #back:hover,#saveform:hover, #star:hover, #thumbs-down:hover, #submit:hover, #saveperson:hover, #savetodo:hover, #savelogin:hover, #loginsignup:hover{
+	background-color:#3C797F;
+}
+/*floated features*/
+#feature1, #feature2, #feature3{
+	float: left;
+}
+/*rounded corners and set background color*/
+#searchresults, #ord, #saveresults{
+	background: white;
+	border-radius: 8px;
+	padding-bottom: 2.5%;
+	padding-top: 1.5%;
+	margin-bottom: 1.5%;
+}
+/*other related drugs centered text removed ul styling enlarged links*/
+#ord{
+	margin-left: 2.5%;
+}
+/*aligned h3 in ord to center*/
+#ord h3{
+	text-align: center;
+}
+/*removed ul styling and moved over ul*/
+#ord ul{
+	list-style: none;
+	margin-left: 15%;
+	font-weight: bold;
+}
+/*set advertisement area*/
+#advertisement{
+	background-color: #eee;
+	margin-left: 2.5%;
+	padding-top: 10%;
+	padding-bottom: 5%;
+}
+/*styled tabs color and padding for divs*/
+#mytabs{
+	background: white;
+	padding-top: 1.5%;
+
+}
+/*styled forms to same color as page*/
+#mytabs form{
+	background: #3CC7D9; 
+	padding-bottom: 1.5%;
+	padding-top: 1.5%;
+	padding-left: 3.5%;
+	padding-right: 3.5%;
+}
+
+#tab1, #todolist, #personslist{
+	margin-left: 2.5%;
+}
+/*colored links black and sized */
+#tabs a{
+	font-size: 1.5em;
+	color: black;
+}
+
+
