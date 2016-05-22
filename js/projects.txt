@@ -1,0 +1,95 @@
+	[
+		{
+		"projectTitle":"Game Day Picker",
+		"projectImagesrc":"images/GDP_demo.jpg",
+		"projectImagesalt":"GameDayPicker",
+		"projectDescription":"Game Day Picker was submitted as my final project while atending Full Sail University. The game allows you to pick weekly football games with friends, family, coworkers and rivals. You begin by making your picks. After the games are played the results are tallied and saved in the system. This allows for you to keep the results to yourself of join or create a group to compete with. GDP was built with CodeIgniter, Javascript, HTML5, CSS, MySQL and Bootstrap. ",
+		"projectLinks":"http://www.juanitahales.com/GDP",
+		"projectVideos":"https://www.youtube.com/embed/HeQGDv0tCls?list=PLKtZiM-ZMXVK5pKFYXTgigp45xdtcfhQK",
+		"projectCode":"CodeIgniter, Javascript, Jquery, HTML5, CSS, MySQL, Bootstrap"
+		},
+		{
+		"projectTitle":"A Better Life Homecare Incorporated",
+		"projectImagesrc":"images/ABLHI-logo_full.gif",
+		"projectImagesalt":"A Better Life Homecare Incorporated",
+		"projectDescription":"Advertising site built for A Better Life Homecare Incorporated based in Melbourne, FL. The site is in continual progression as the client has the opportunity to contribute. Client wanted the ability to login to site and update it like they had before with Vista Print",
+		"projectLinks":"http://ablhinc.com/",
+		"projectVideos":"",
+		"projectCode":"Wordpress"
+		},
+		{
+		"projectTitle":"Homecare Task Manager",
+		"projectImagesrc":"images/Homecare_Task_Manager.jpg",
+		"projectImagesalt":"Homecare Task Manager",
+		"projectDescription":"Application for tracking tasks built with jquery ui.",
+		"projectLinks":"http://www.juanitahales.com/projects/Homecare_Task_Manager",
+		"projectVideos":"https://www.youtube.com/embed/1_T-XvPSU0c",
+		"projectCode":"Jquery UI, Javascript, HTML5, CSS, MySQL, Bootstrap"
+		},
+		{
+		"projectTitle":"Client Contact Manager",
+		"projectImagesrc":"images/Client_Contact_Manager.jpg",
+		"projectImagesalt":"Client Contact Manager",
+		"projectDescription":"Application for tracking clients built with MySql and PHP.",
+		"projectLinks":"https://www.youtube.com/watch?v=FY8VkiIwMkY",
+		"projectVideos":"https://www.youtube.com/embed/FY8VkiIwMkY",
+		"projectCode":"Jquery, Javascript, HTML5, CSS, MySQL, Bootstrap"
+		},
+		{
+		"projectTitle":"Hours Tracker",
+		"projectImagesrc":"images/Hours_Tracker.jpg",
+		"projectImagesalt":"Hours Tracker",
+		"projectDescription":"Application created to track client hours, work hours, and pay, built in Codeigniter.",
+		"projectLinks":"https://www.youtube.com/playlist?list=PLKtZiM-ZMXVL-508b37seboo9BLjOJNnJ",
+		"projectVideos":"https://www.youtube.com/embed/FdfGXYx4-KI",
+		"projectCode":"Codeigniter, Javascript, HTML5, CSS, MySQL, Bootstrap"
+		},
+		{
+		"projectTitle":"Fruit Ads",
+		"projectImagesrc":"images/Fruit_Ads.jpg",
+		"projectImagesalt":"Fruit Ads",
+		"projectDescription":"Application for adding fruit to a database and displaying fruit images from links, built in php.",
+		"projectLinks":"https://www.youtube.com/playlist?list=PLKtZiM-ZMXVIOziQA2vGgHQmg4kS0KdPn",
+		"projectVideos":"https://www.youtube.com/embed/tqgXhTQ5crI?list=PLKtZiM-ZMXVIOziQA2vGgHQmg4kS0KdPn",
+		"projectCode":"PHP, HTML5, CSS, MySQL, Bootstrap"
+		},
+		{
+		"projectTitle":"Nini Radio",
+		"projectImagesrc":"images/Nini_Radio.jpg",
+		"projectImagesalt":"Nini Radio",
+		"projectDescription":"Advertisement site to host content by the fictional broadcast station Nini Radio. Built with Adobe After Effects, Javascript, HTML5, and CSS. ",
+		"projectLinks":"http://www.juanitahales.com/projects/Nini_Radio/index.html",
+		"projectVideos":"",
+		"projectCode":"Adobe After Effects, Javascript, HTML5, CSS"
+		},
+		{
+		"projectTitle":"RX Lookup",
+		"projectImagesrc":"images/RXLookup.jpg",
+		"projectImagesalt":"RXLookup",
+		"projectDescription":"Mockup of application RX Lookup, which allows a user to lookup prescriptions, site built in Bootstrap. ",
+		"projectLinks":"http://www.juanitahales.com/projects/RXLookup/index.html",
+		"projectVideos":"",
+		"projectCode":"HTML5, CSS, Bootstrap"
+		},
+		{
+		"projectTitle":"Zen House Foundation",
+		"projectImagesrc":"images/ZenHouseF.jpg",
+		"projectImagesalt":"Zen House Foundation",
+		"projectDescription":"Fictional restaurant site built in Foundation. ",
+		"projectLinks":"http://www.juanitahales.com/projects/ZenHouse-Foundation/index.html",
+		"projectVideos":"",
+		"projectCode":"HTML5, CSS, Foundation"
+		},
+		{
+		"projectTitle":"Bootstrap Carousel",
+		"projectImagesrc":"images/Bootstrap_Carousel.jpg",
+		"projectImagesalt":"Bootstrap Carousel",
+		"projectDescription":"Presentation site build with Bootstrap and Reveal JS. ",
+		"projectLinks":"http://www.juanitahales.com/projects/bootstrap_carousel/index.html#/",
+		"projectVideos":"https://www.youtube.com/embed/CSI13_W3cZ0",
+		"projectCode":"HTML5, CSS, RevealJs, Bootstrap"
+		}
+		
+	]
+
+           

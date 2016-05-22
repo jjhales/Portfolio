@@ -1,0 +1,25 @@
+body{
+	font-family: 'Raleway', sans-serif;
+	background-image:url("../images/palms.jpg");
+}
+.navbar-default{
+	margin-top: 1.5%;
+	background-color:#E1FFFD;
+	border-color: white;
+}
+.titles{
+	background-color:#E1FFFD;
+	border-radius:4px;
+	padding: .5%;
+	margin-right: 2.5%;
+	border-color: white;
+}
+
+footer li{
+	float: left;
+	list-style-type: none;
+	padding-right: 5%;
+}
+footer a{
+	color: white;
+}
